@@ -10,7 +10,7 @@
   "license": "ISC",
   "overrides": {
     "webpack": "5.105.3",
-    "serialize-javascript": "7.0.3"
+    "serialize-javascript": "7.0.5"
   },
   "dependencies": {
     "@types/react": "19.2.14",
